@@ -9,6 +9,17 @@ I am excited to continue developing my skills and contributing to the field of d
 
 # About me
 1. I’m interested in Data Analytics & Business Intelligence.
- 2.I am a B.Tech student of MNIT Jaipur.
+2.I am a B.Tech student of MNIT Jaipur.
 3. I’m looking to collaborate on data analysis projects.
 4. How to reach me [(mishrasachin@gmail.com)]
+
+# Skills
+1. SQL
+2. Python
+3. Excel
+4. Tableau
+5. Data Analysis
+6. Business Analysis
+
+# Social
+[(https://www.linkedin.com/in/sachin-mishra-8a678b1b7/)]
